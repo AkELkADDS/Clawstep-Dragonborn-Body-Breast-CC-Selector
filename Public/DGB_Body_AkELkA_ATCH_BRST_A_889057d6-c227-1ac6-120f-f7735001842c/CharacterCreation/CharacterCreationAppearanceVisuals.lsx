@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="CharacterCreationAppearanceVisuals">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4840a00cgefd4g1a56gc5fcg74f5dd831825" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BRSTSelector_A_EB"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="fbe41663-8811-4903-b8e2-a0df1318015b"/>
+                    <attribute id="VisualResource" type="guid" value="2ec62f74-8b28-4d42-8b8c-041f582ff608"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h85cb128cge57bg39acgb00aga8287b41c391" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BRSTSelector_A_EC"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="2657f2c7-72ca-43ac-86af-4c51e593e282"/>
+                    <attribute id="VisualResource" type="guid" value="8d86bd13-2ccb-4e49-ad72-255bacf54434"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hc9a1ecb9g56b7gc101ge29eg3d0c851e01c0" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BRSTSelector_A_EC_PRC"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="b8c1cb30-7320-40ab-99ea-8a73068bc11b"/>
+                    <attribute id="VisualResource" type="guid" value="6fa8ac96-ff95-42c8-8851-e4c8da21fd91"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h0355843bgec72g070dg6efdgbe1cc0519fb4" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BRSTSelector_A_ED"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="2f8415db-e37a-4123-a1fe-6e07b6a655e3"/>
+                    <attribute id="VisualResource" type="guid" value="065c6ed9-91de-4acb-ac17-1901088237df"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h466ed2b5g25c7gdafeg7f4dgb93f0d90882c" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BRSTSelector_A_ED_PRC"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="6dc3fef2-da11-4a7c-8d18-cf72590d0136"/>
+                    <attribute id="VisualResource" type="guid" value="34511123-7868-4b70-8197-d47d03fe3b90"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h61adb442g5839gb1c9g829egaefa278840cf" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BRSTSelector_A_EE"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="8b0d66dc-bc09-425d-8f72-64cb19f3fba7"/>
+                    <attribute id="VisualResource" type="guid" value="1537bce4-6d26-4791-acf0-c6796d956a24"/>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7b1af3aeg3aa5g550dg5d6dg6d98c8c333b7" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CS_BRSTSelector_A_EE_PRC"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Horns"/>
+                    <attribute id="UUID" type="guid" value="bfc5b848-dd95-419e-bf32-e35b7bf59c57"/>
+                    <attribute id="VisualResource" type="guid" value="9bcf6d95-2ff1-4554-9ba0-d2dd63115006"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

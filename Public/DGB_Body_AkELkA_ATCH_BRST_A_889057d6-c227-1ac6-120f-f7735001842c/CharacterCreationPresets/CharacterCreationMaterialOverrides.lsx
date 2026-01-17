@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="CharacterCreationMaterialOverrides">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_F_NKD_Body_ATCH_BRST_EE_EL_3"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="adf12ee9-aabc-ab49-5ef6-17fc250aed32"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="073d5931-c9ec-e75c-8055-270ac513fb6b"/>
+                    <attribute id="UUID" type="guid" value="d5c87b0e-bf33-4c1f-802c-f97cfd727e1d"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_F_NKD_Body_ATCH_BRST_ED_EL_3"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="7b621e27-cb99-569b-3d85-68448d12f0ef"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="02412d2b-a737-e6fe-7944-2cd47549e779"/>
+                    <attribute id="UUID" type="guid" value="99bf069a-2498-45c7-ac54-c90d056cac04"/>
+                </node>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_F_NKD_Body_ATCH_BRST_EC_EL_3"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="9f8f2d93-9246-8efd-92d5-293478242623"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="40f66982-3de7-dfda-ae13-c29437a4641f"/>
+                    <attribute id="UUID" type="guid" value="9864a66d-159f-46cd-8e11-a0af881657c3"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
