@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c 
-   Mon 02/16/2026 10:49:32.11 
+   Sat 02/21/2026 22:49:24.58 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -57,7 +57,6 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Assets\Textures\DGB_F_NKD_Body_ATCH_BRST_EE_EL_3_MSK.DDS 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Assets\Textures\DGB_F_NKD_Body_ATCH_BRST_EE_EL_3_NM.DDS 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Assets\Textures\Icons\Clawstep_BRST_Selector_Atlas.dds 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Assets\Textures\Icons\Clawstep_BRST_Selector_B_Atlass.dds 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\CharacterCreationPresets\CharacterCreationPresets.lsx 
@@ -94,7 +93,6 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\9b45fd87-4e63-7756-45b0-38592b4743dd.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\9bcf6d95-2ff1-4554-9ba0-d2dd63115006.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\9f8f2d93-9246-8efd-92d5-293478242623.lsf 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\a2e646c1-00e3-fc7a-52b6-b86dd6d77bd5.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\a8f16222-72ea-2c65-05f4-02ec435120a0.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\a97b9328-dd2c-46c1-8ec6-cafa9e082398.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\ac5a2d43-1500-4fc9-9132-12307e21897c.lsf 
@@ -144,11 +142,10 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\DGB_Body_AkELkA_Extra_A\Body_BRST\DGB_F_NKD_Body_NippleCovers_D_EL.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\DGB_Body_AkELkA_Extra_A\Body_BRST\DGB_F_NKD_Body_NippleCovers_D_EL.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\GUI\Clawstep_BRST_Selector_Atlas.lsx 
-  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\GUI\Clawstep_BRST_Selector_B_Atlas.lsx 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\SharedDev\Assets\Characters\_Models\Dragonborn\_Female\Resources\DGB_F_NKD_Body_Leaf_A.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\SharedDev\Assets\Characters\_Models\Dragonborn\_Female\Resources\DGB_F_NKD_Body_Leaf_A.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Tags\81054f0f-27b4-4381-ab08-9000a16ca631.lsf 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c: 110 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c: 107 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c 
  
@@ -172,7 +169,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\SharedDev\Assets\Characters\_Models\Dragonborn\_Female\Resources\DGB_F_NKD_Body_Leaf_A_EL.GR2 
 Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c: 17 
  
-[LOG] Total files found across all folders: 136 
+[LOG] Total files found across all folders: 133 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -188,7 +185,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 10:49:35 AM
+  Started : Saturday, February 21, 2026 10:49:28 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Projects\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
 
@@ -212,7 +209,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           607048000 Bytes/sec.
    Speed :           34735.565 MegaBytes/min.
-   Ended : Monday, February 16, 2026 10:49:35 AM
+   Ended : Saturday, February 21, 2026 10:49:28 PM
 
  
 [DEBUG] Counting source files 
@@ -238,7 +235,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 10:49:36 AM
+  Started : Saturday, February 21, 2026 10:49:30 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Editor\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
 
@@ -248,22 +245,22 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
+	    New File  		   27336	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 	    New File  		    3360	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl100%  
 	    New File  		     142	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\CharacterCreationPresets\CharacterCreationPresets.tbl100%  
-	    New File  		   27243	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :         7         7         1         0         0         0
    Files :         3         3         0         0         0         0
-   Bytes :    30.0 k    30.0 k         0         0         0         0
+   Bytes :    30.1 k    30.1 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            30745000 Bytes/sec.
-   Speed :            1759.243 MegaBytes/min.
-   Ended : Monday, February 16, 2026 10:49:36 AM
+   Speed :            30838000 Bytes/sec.
+   Speed :            1764.564 MegaBytes/min.
+   Ended : Saturday, February 21, 2026 10:49:30 PM
 
  
 [DEBUG] Counting source files 
@@ -289,7 +286,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 10:49:38 AM
+  Started : Saturday, February 21, 2026 10:49:31 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
 
@@ -315,7 +312,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           310969500 Bytes/sec.
    Speed :           17793.817 MegaBytes/min.
-   Ended : Monday, February 16, 2026 10:49:38 AM
+   Ended : Saturday, February 21, 2026 10:49:31 PM
 
  
 [DEBUG] Counting source files 
@@ -341,7 +338,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 10:49:40 AM
+  Started : Saturday, February 21, 2026 10:49:34 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
 
@@ -351,11 +348,10 @@ SECTION 2: COPY OPERATIONS
 
 ------------------------------------------------------------------------------
 
+	    New File  		   21441	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
 	    New File  		    2846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx100%  
 	    New File  		     197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\CharacterCreationPresets\CharacterCreationPresets.lsx100%  
-	    New File  		   21348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
-	    New File  		    8355	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\GUI\Clawstep_BRST_Selector_Atlas.lsx100%  
-	    New File  		    2478	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\GUI\Clawstep_BRST_Selector_B_Atlas.lsx100%  
+	    New File  		    5228	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\GUI\Clawstep_BRST_Selector_Atlas.lsx100%  
 	    New File  		    1521	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Tags\81054f0f-27b4-4381-ab08-9000a16ca631.lsf100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Assets\Textures\DGB_F_NKD_Body_ATCH_BRST_EC_EL_3_CTLO.DDS100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Assets\Textures\DGB_F_NKD_Body_ATCH_BRST_EC_EL_3_DB_DMSK.DDS100%  
@@ -404,7 +400,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1639	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\9b45fd87-4e63-7756-45b0-38592b4743dd.lsf100%  
 	    New File  		    2767	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\9bcf6d95-2ff1-4554-9ba0-d2dd63115006.lsf100%  
 	    New File  		   13557	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\9f8f2d93-9246-8efd-92d5-293478242623.lsf100%  
-	    New File  		    1633	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\a2e646c1-00e3-fc7a-52b6-b86dd6d77bd5.lsf100%  
 	    New File  		    1624	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\a8f16222-72ea-2c65-05f4-02ec435120a0.lsf100%  
 	    New File  		    2767	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\a97b9328-dd2c-46c1-8ec6-cafa9e082398.lsf100%  
 	    New File  		    2767	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\[PAK]_DGB_Body_AkELkA_ATCH_BRST_A\ac5a2d43-1500-4fc9-9132-12307e21897c.lsf100%  
@@ -454,7 +449,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  579740	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\DGB_Body_AkELkA_Extra_A\Body_BRST\DGB_F_NKD_Body_NippleCovers_D_EL.GR2100%  
 	    New File  		     177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\DGB_Body_AkELkA_Extra_A\Body_BRST\DGB_F_NKD_Body_NippleCovers_D_EL.xml100%  
 	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Assets\Textures\Icons\Clawstep_BRST_Selector_Atlas.dds100%  
-	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Assets\Textures\Icons\Clawstep_BRST_Selector_B_Atlass.dds100%  
 	    New File  		    2644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\Assets\Characters\Dragonborn\[PAK]_Female_Body\2ff46c01-918c-44f9-8424-7da519ac1f0b.lsf100%  
 	    New File  		    2666	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\Assets\Characters\Dragonborn\[PAK]_Female_Body\3fcdfc98-ea2a-5730-98bd-4592f01b2169.lsf100%  
 	    New File  		    2832	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Content\Assets\Characters\Dragonborn\[PAK]_Female_Body\6808ef59-17d3-44c3-a8f8-8255ad6a83f7.lsf100%  
@@ -466,22 +460,22 @@ SECTION 2: COPY OPERATIONS
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        24        24         1         0         0         0
-   Files :       110       110         0         0         0         0
-   Bytes :   74.96 m   74.96 m         0         0         0         0
+   Files :       107       107         0         0         0         0
+   Bytes :   74.62 m   74.62 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           2620277133 Bytes/sec.
-   Speed :           149933.460 MegaBytes/min.
-   Ended : Monday, February 16, 2026 10:49:40 AM
+   Speed :           2301514382 Bytes/sec.
+   Speed :           131693.709 MegaBytes/min.
+   Ended : Saturday, February 21, 2026 10:49:34 PM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 110 
-[DEBUG] Successfully copied files: 110 
+[DEBUG] Total files counted: 107 
+[DEBUG] Successfully copied files: 107 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c: 
-      Total files: 110 
-      Copied successfully: 110 
+      Total files: 107 
+      Copied successfully: 107 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -499,7 +493,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Monday, February 16, 2026 10:49:42 AM
+  Started : Saturday, February 21, 2026 10:49:36 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Generated\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
 
@@ -536,9 +530,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           312495428 Bytes/sec.
-   Speed :           17881.131 MegaBytes/min.
-   Ended : Monday, February 16, 2026 10:49:42 AM
+   Speed :           136716750 Bytes/sec.
+   Speed :            7822.995 MegaBytes/min.
+   Ended : Saturday, February 21, 2026 10:49:36 PM
 
  
 [DEBUG] Counting source files 
@@ -571,7 +565,7 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 110 
+[LOG] Files copied by xcopy: 107 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
@@ -580,8 +574,8 @@ SECTION 4: FINAL SUMMARY
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 136 
-[SUMMARY] Total files successfully copied: 272 
+[SUMMARY] Total files found: 133 
+[SUMMARY] Total files successfully copied: 266 
  
 [SUMMARY] All files were copied successfully 
  

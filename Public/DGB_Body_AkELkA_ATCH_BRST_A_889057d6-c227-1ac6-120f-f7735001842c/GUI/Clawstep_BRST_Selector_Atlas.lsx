@@ -12,109 +12,60 @@
                     <attribute id="V2" type="float" value="0.24902344"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_EC"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_EC_Censored"/>
                     <attribute id="U1" type="float" value="0.25097656"/>
                     <attribute id="U2" type="float" value="0.49902344"/>
                     <attribute id="V1" type="float" value="0.0009765625"/>
                     <attribute id="V2" type="float" value="0.24902344"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_EC_PRC"/>
-                    <attribute id="U1" type="float" value="0.0009765625"/>
-                    <attribute id="U2" type="float" value="0.24902344"/>
-                    <attribute id="V1" type="float" value="0.25097656"/>
-                    <attribute id="V2" type="float" value="0.49902344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_EC_PRC_B"/>
-                    <attribute id="U1" type="float" value="0.75097656"/>
-                    <attribute id="U2" type="float" value="0.99902344"/>
-                    <attribute id="V1" type="float" value="0.25097656"/>
-                    <attribute id="V2" type="float" value="0.49902344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_EC_PRC_C"/>
-                    <attribute id="U1" type="float" value="0.0009765625"/>
-                    <attribute id="U2" type="float" value="0.24902344"/>
-                    <attribute id="V1" type="float" value="0.50097656"/>
-                    <attribute id="V2" type="float" value="0.74902344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_EC_PRC_D"/>
-                    <attribute id="U1" type="float" value="0.25097656"/>
-                    <attribute id="U2" type="float" value="0.49902344"/>
-                    <attribute id="V1" type="float" value="0.50097656"/>
-                    <attribute id="V2" type="float" value="0.74902344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_EC_PRC_E"/>
-                    <attribute id="U1" type="float" value="0.50097656"/>
-                    <attribute id="U2" type="float" value="0.74902344"/>
-                    <attribute id="V1" type="float" value="0.50097656"/>
-                    <attribute id="V2" type="float" value="0.74902344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_ED"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_ED_Censored"/>
                     <attribute id="U1" type="float" value="0.50097656"/>
                     <attribute id="U2" type="float" value="0.74902344"/>
                     <attribute id="V1" type="float" value="0.0009765625"/>
                     <attribute id="V2" type="float" value="0.24902344"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_ED_PRC"/>
-                    <attribute id="U1" type="float" value="0.25097656"/>
-                    <attribute id="U2" type="float" value="0.49902344"/>
-                    <attribute id="V1" type="float" value="0.25097656"/>
-                    <attribute id="V2" type="float" value="0.49902344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_ED_PRC_B"/>
-                    <attribute id="U1" type="float" value="0.75097656"/>
-                    <attribute id="U2" type="float" value="0.99902344"/>
-                    <attribute id="V1" type="float" value="0.50097656"/>
-                    <attribute id="V2" type="float" value="0.74902344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_ED_PRC_C"/>
-                    <attribute id="U1" type="float" value="0.0009765625"/>
-                    <attribute id="U2" type="float" value="0.24902344"/>
-                    <attribute id="V1" type="float" value="0.75097656"/>
-                    <attribute id="V2" type="float" value="0.99902344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_ED_PRC_D"/>
-                    <attribute id="U1" type="float" value="0.25097656"/>
-                    <attribute id="U2" type="float" value="0.49902344"/>
-                    <attribute id="V1" type="float" value="0.75097656"/>
-                    <attribute id="V2" type="float" value="0.99902344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_ED_PRC_E"/>
-                    <attribute id="U1" type="float" value="0.50097656"/>
-                    <attribute id="U2" type="float" value="0.74902344"/>
-                    <attribute id="V1" type="float" value="0.75097656"/>
-                    <attribute id="V2" type="float" value="0.99902344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_EE"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_EE_Censored"/>
                     <attribute id="U1" type="float" value="0.75097656"/>
                     <attribute id="U2" type="float" value="0.99902344"/>
                     <attribute id="V1" type="float" value="0.0009765625"/>
                     <attribute id="V2" type="float" value="0.24902344"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_EE_PRC"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_PRC_A_Censored"/>
+                    <attribute id="U1" type="float" value="0.0009765625"/>
+                    <attribute id="U2" type="float" value="0.24902344"/>
+                    <attribute id="V1" type="float" value="0.25097656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_PRC_B_Censored"/>
+                    <attribute id="U1" type="float" value="0.25097656"/>
+                    <attribute id="U2" type="float" value="0.49902344"/>
+                    <attribute id="V1" type="float" value="0.25097656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_PRC_C_Censored"/>
                     <attribute id="U1" type="float" value="0.50097656"/>
                     <attribute id="U2" type="float" value="0.74902344"/>
                     <attribute id="V1" type="float" value="0.25097656"/>
                     <attribute id="V2" type="float" value="0.49902344"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_A_EE_PRC_B"/>
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_PRC_D_Censored"/>
                     <attribute id="U1" type="float" value="0.75097656"/>
                     <attribute id="U2" type="float" value="0.99902344"/>
-                    <attribute id="V1" type="float" value="0.75097656"/>
-                    <attribute id="V2" type="float" value="0.99902344"/>
+                    <attribute id="V1" type="float" value="0.25097656"/>
+                    <attribute id="V2" type="float" value="0.49902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_CS_BRSTSelector_PRC_E_Censored"/>
+                    <attribute id="U1" type="float" value="0.0009765625"/>
+                    <attribute id="U2" type="float" value="0.24902344"/>
+                    <attribute id="V1" type="float" value="0.50097656"/>
+                    <attribute id="V2" type="float" value="0.74902344"/>
                 </node>
             </children>
         </node>

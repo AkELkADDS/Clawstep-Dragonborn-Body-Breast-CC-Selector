@@ -27,7 +27,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="8d86bd13-2ccb-4e49-ad72-255bacf54434" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h85cb128cge57bg39acgb00aga8287b41c391" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_EC_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EC_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -42,7 +42,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="6fa8ac96-ff95-42c8-8851-e4c8da21fd91" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc9a1ecb9g56b7gc101ge29eg3d0c851e01c0" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_EC_PRC_A_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EC_PRC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_A_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -57,7 +57,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="4b65f81c-0e98-48e7-978e-bbef9e2b1ce7" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2c8825a1g5527ga8a6g38f4gc8f4c1bd0db5" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_EC_PRC_B_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EC_PRC_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_B_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -72,7 +72,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="a97b9328-dd2c-46c1-8ec6-cafa9e082398" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h30e75907g4081gdfbegdb11gd3ac29c5cc17" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_EC_PRC_C_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EC_PRC_C" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_C_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -87,7 +87,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b151e283-32d4-4e39-aea4-490b5783ed4f" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5f9b3e40g3e4eg12e6g0325ga9d72309f7b9" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_EC_PRC_D_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EC_PRC_D" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_D_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -102,7 +102,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="cc24d107-2362-4c33-a042-fcecdf6a066c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha5aee573g52c2gff86gc8fag4270dc3dc740" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_EC_PRC_E_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EC_PRC_E" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_E_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -117,7 +117,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="065c6ed9-91de-4acb-ac17-1901088237df" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0355843bgec72g070dg6efdgbe1cc0519fb4" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_EC_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_ED" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_ED_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -132,7 +132,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="34511123-7868-4b70-8197-d47d03fe3b90" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h466ed2b5g25c7gdafeg7f4dgb93f0d90882c" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_ED_PRC_A_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_ED_PRC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_A_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -147,7 +147,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="f33bc8a8-fe7d-49ee-bbfe-6dc4613723a5" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h06982ae9g5888g955cgae68g8b3a4f013304" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_ED_PRC_B_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_ED_PRC_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_B_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -162,7 +162,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ad22bb26-c093-4dd9-81e9-89c5e3ca7a96" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc7b73df1g0a4dg927eg4bdag802e82855a17" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_ED_PRC_C_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_ED_PRC_C" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_C_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -177,7 +177,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="d7d4c772-d83e-43f9-beb2-ccc0fbfd10ad" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5ec72f3bg1155g0f15g574dg4aac7dc80af6" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_ED_PRC_D_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_ED_PRC_D" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_D_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -192,7 +192,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ad7d55e1-305d-4437-8d72-5ed7e31e5cae" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h45fe8799gbf3bg22acge6dfg5ae47ed03849" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_ED_PRC_E_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_ED_PRC_E" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_E_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -207,7 +207,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1537bce4-6d26-4791-acf0-c6796d956a24" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h61adb442g5839gb1c9g829egaefa278840cf" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_EE_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EE" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EE_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -222,7 +222,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9bcf6d95-2ff1-4554-9ba0-d2dd63115006" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7b1af3aeg3aa5g550dg5d6dg6d98c8c333b7" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_EE_PRC_A_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EE_PRC" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_A_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -237,7 +237,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="5b4dab95-5660-4f2c-aba3-e3837259caa5" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5a5fa266g9bc8gf758gdc02gfcc1a619bd07" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_EE_PRC_B_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EE_PRC_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_B_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -252,7 +252,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="67814def-f6da-47cd-82c2-73dcb2495efd" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc5554a17g71e7gd90fgb5d9gf49ec6edb34b" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_EE_PRC_C_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EE_PRC_C" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_C_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -267,7 +267,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ac5a2d43-1500-4fc9-9132-12307e21897c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h54f480f9g7067g39f6g272bga6f1463f8e1a" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_EE_PRC_D_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EE_PRC_D" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_D_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
@@ -282,7 +282,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="2dad9176-faae-4562-9f72-6fc4a7e36089" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h484c13bdg8d13ga5bcg0ab9gc633df23fe2b" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_F_NKD_Body_ATCH_BRST_EE_PRC_E_EL_3" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_A_EE_PRC_E" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CS_BRSTSelector_PRC_E_Censored" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="81054f0f-27b4-4381-ab08-9000a16ca631" />
       </fields>
     </stat_object>
