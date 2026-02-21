@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c 
-   Sat 02/21/2026 22:49:24.58 
+   Sat 02/21/2026 23:02:29.82 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -185,7 +185,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, February 21, 2026 10:49:28 PM
+  Started : Saturday, February 21, 2026 11:02:33 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Projects\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
 
@@ -209,7 +209,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           607048000 Bytes/sec.
    Speed :           34735.565 MegaBytes/min.
-   Ended : Saturday, February 21, 2026 10:49:28 PM
+   Ended : Saturday, February 21, 2026 11:02:33 PM
 
  
 [DEBUG] Counting source files 
@@ -235,7 +235,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, February 21, 2026 10:49:30 PM
+  Started : Saturday, February 21, 2026 11:02:35 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Editor\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
 
@@ -260,7 +260,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :            30838000 Bytes/sec.
    Speed :            1764.564 MegaBytes/min.
-   Ended : Saturday, February 21, 2026 10:49:30 PM
+   Ended : Saturday, February 21, 2026 11:02:35 PM
 
  
 [DEBUG] Counting source files 
@@ -286,7 +286,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, February 21, 2026 10:49:31 PM
+  Started : Saturday, February 21, 2026 11:02:37 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
 
@@ -297,7 +297,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   11864	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\meta.lsx100%  
-	    New File  		  606342	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\mod_publish_logo.png100%  
+	    New File  		  606342	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\mod_publish_logo.png  0%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\GUI\metadata.lsf100%  
 	    New File  		    2592	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Localization\English\english.xml100%  
 
@@ -310,9 +310,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           310969500 Bytes/sec.
-   Speed :           17793.817 MegaBytes/min.
-   Ended : Saturday, February 21, 2026 10:49:31 PM
+   Speed :           621939000 Bytes/sec.
+   Speed :           35587.635 MegaBytes/min.
+   Ended : Saturday, February 21, 2026 11:02:37 PM
 
  
 [DEBUG] Counting source files 
@@ -338,7 +338,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, February 21, 2026 10:49:34 PM
+  Started : Saturday, February 21, 2026 11:02:39 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
 
@@ -465,9 +465,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           2301514382 Bytes/sec.
-   Speed :           131693.709 MegaBytes/min.
-   Ended : Saturday, February 21, 2026 10:49:34 PM
+   Speed :           2059249710 Bytes/sec.
+   Speed :           117831.213 MegaBytes/min.
+   Ended : Saturday, February 21, 2026 11:02:39 PM
 
  
 [DEBUG] Counting source files 
@@ -493,7 +493,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Saturday, February 21, 2026 10:49:36 PM
+  Started : Saturday, February 21, 2026 11:02:41 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\Generated\Public\DGB_Body_AkELkA_ATCH_BRST_A_889057d6-c227-1ac6-120f-f7735001842c\
 
@@ -530,9 +530,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           136716750 Bytes/sec.
-   Speed :            7822.995 MegaBytes/min.
-   Ended : Saturday, February 21, 2026 10:49:36 PM
+   Speed :           198860727 Bytes/sec.
+   Speed :           11378.902 MegaBytes/min.
+   Ended : Saturday, February 21, 2026 11:02:41 PM
 
  
 [DEBUG] Counting source files 
